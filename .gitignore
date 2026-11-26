@@ -1,0 +1,4 @@
+.godot/
+*.tmp
+dist/*
+!dist/Puteshestvie_v_KFU.exe
